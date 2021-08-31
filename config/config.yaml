@@ -1,0 +1,6 @@
+port: 3388
+mysql:
+  url: 127.0.0.1:3306
+  password: 27281314
+  userName: root
+  databaseName: ship
